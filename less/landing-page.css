@@ -238,40 +238,9 @@ b {
 }
 #services_page .content-section-a {
   padding-top: 150px;
-  color: black;
-  background-color: white;
-  border-top: 1px solid #40a2ff;
-  background: url(../img/plumbing-blueprints-opacity-60.jpg) no-repeat;
-  background-size: cover;
-  margin-left: auto;
-  margin-right: auto;
-}
-#services_page .content-section-a .container {
-  margin-left: 350px;
+  color: white;
+  background-color: #23527c;
 }
 #services_page .content-section-a .section-heading {
   text-align: justify;
-}
-#services_page .content-section-a .section-heading .list {
-  text-align: center;
-  list-style-type: none;
-  width: 600px;
-}
-.section-spacer {
-  width: 300px;
-  border-top: 3px solid #40a2ff;
-}
-.img-responsiveS {
-  margin-top: 40px;
-  margin-left: 30px;
-}
-ul {
-  list-style-type: none;
-  text-align: center;
-  margin-top: 20px;
-  margin-left: -35px;
-  font-size: 18px;
-}
-.section-heading h3 {
-  font-size: 20px;
 }
