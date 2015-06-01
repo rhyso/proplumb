@@ -151,8 +151,8 @@ footer {
   padding: 50px 0;
   background-color: #f8f8f8;
 }
-p.copyright {
-  margin: 15px 0 0;
+#home_page p.copyright {
+  margin-left: 267px;
 }
 .nav li a.selected {
   color: #40a2ff;
@@ -236,34 +236,26 @@ b {
 .navbar-default .navbar-nav > li > a {
   font-size: 18px;
 }
-#services_page .content-section-a {
-  padding-top: 150px;
+#services_page .content-section {
+  padding-top: 5px;
   color: black;
-  background-color: white;
-  border-top: 1px solid #40a2ff;
-  background: url(../img/plumbing-blueprints-opacity-60.jpg) no-repeat;
+  background: url(../img/piping.jpg) no-repeat;
   background-size: cover;
-  margin-left: auto;
-  margin-right: auto;
+  border-top: 1px solid #40a2ff;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
 }
-#services_page .content-section-a .container {
-  margin-left: 350px;
-}
-#services_page .content-section-a .section-heading {
-  text-align: justify;
-}
-#services_page .content-section-a .section-heading .list {
+#services_page .content-section .section-heading .list {
   text-align: center;
   list-style-type: none;
   width: 600px;
 }
 .section-spacer {
   width: 300px;
-  border-top: 3px solid #40a2ff;
-}
-.img-responsiveS {
-  margin-top: 40px;
-  margin-left: 30px;
+  border-top: 1px solid black;
+  margin-bottom: 2px;
+  margin-top: 30px;
 }
 ul {
   list-style-type: none;
@@ -271,7 +263,45 @@ ul {
   margin-top: 20px;
   margin-left: -35px;
   font-size: 18px;
+  margin-bottom: 30px;
 }
 .section-heading h3 {
-  font-size: 20px;
+  font-size: 30px;
+}
+#services_page p.copyright {
+  margin-top: 80px;
+}
+#services_page .banner-social-buttons ul {
+  margin-left: 190px;
+  margin-top: -20px;
+}
+#about_page .content-section {
+  padding-top: 5px;
+  color: black;
+  background: url(../img/water.jpg) no-repeat;
+  background-size: cover;
+  border-top: 1px solid #40a2ff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+#about_page .content-section .section-heading .list {
+  text-align: center;
+  list-style-type: none;
+  width: 600px;
+}
+#about_page p.copyright {
+  margin-top: 80px;
+  margin-left: 267px;
+}
+#about_page .banner-social-buttons ul {
+  margin-left: 190px;
+  margin-top: -20px;
+}
+#about_page p.lead {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  width: 690px;
+  margin-left: 110px;
+  margin-top: -10px;
 }
