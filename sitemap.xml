@@ -1,3 +1,25 @@
-http://pro-plumb.co.uk
-http://pro-plumb.co.uk/combi-boiler-services.html
-http://pro-plumb.co.uk/about.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://pro-plumb.co.uk/</loc>
+  <lastmod>2016-08-07T12:52:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pro-plumb.co.uk/index.html</loc>
+  <lastmod>2016-08-07T12:52:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pro-plumb.co.uk/combi-boiler-services.html</loc>
+  <lastmod>2016-08-07T12:13:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://pro-plumb.co.uk/about.html</loc>
+  <lastmod>2016-08-07T12:13:56+00:00</lastmod>
+</url>
+</urlset>
