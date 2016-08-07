@@ -183,6 +183,9 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+    .col-lg-12{
+      padding-left: inherit;
+    }
 }
 
 footer {
@@ -431,17 +434,26 @@ font-size:30px;
         float: none;
         padding:15px;
     }
-       .intro-message ul li:nth-child(3),
+    .intro-message ul li:nth-child(3),
     .intro-message ul li:last-child{
         margin-top:8px;
     }
-    ul.intro-social-buttons>li a{
+    ul.intro-social-buttons>li {
         width:100%;
+        a{
+          width:100%;
+        }
+        &:first-child{
+          margin-bottom: 20px;
+        }
     }
     .circular {
         width: auto;
       }
       body{
         min-width: auto;
+      }
+      .col-lg-12{
+        padding-left: 5px;
       }
 }
